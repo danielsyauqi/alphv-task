@@ -2,7 +2,7 @@ import React from 'react';
 import { usePage,Head } from '@inertiajs/react';
 import Navbar from '@/Components/Navbar';
 import { Triangle, Circle, Square } from '@/Components/Shapes';
-import ShapeGallery from '@/components/ShapeGallery';
+import ShapeGallery from '@/Components/ShapeGallery';
 
 
 const Gallery = () => {
