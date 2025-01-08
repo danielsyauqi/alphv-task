@@ -5,7 +5,7 @@ import ShapeLayout from '@/Layouts/ShapeLayout';
 export default function Create() {
     const { data, setData, post, processing, errors } = useForm({
         name: '',
-        shape: 'Circle',
+        shape: 'circle',
         color: '#000000',
     });
 
